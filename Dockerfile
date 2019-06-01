@@ -1,5 +1,5 @@
 # Pull base image 
-From mohdsabir251/mytomcat:v1
+FROM mohdsabir251/mytomcat:v1
 
 # Maintainer 
 MAINTAINER "mohdsabir251@gmail.com" 
