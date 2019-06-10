@@ -7,7 +7,7 @@
     <title>Guru Registration Form</title>
     </head>
     <body>
-    <h1>Nagendra</h1>
+    <h1>Registration form</h1>
     <form action="guru_register" method="post">
     			<table style="with: 50%">
     				<tr>
