@@ -14,6 +14,11 @@
     					<td>First Name</td>
     					<td><input type="text" name="first_name" /></td>
     				</tr>
+                    
+                    <tr>
+    					<td>Last Name</td>
+    					<td><input type="text" name="last_name" /></td>
+    				</tr>
     				
     				<tr>
     					<td>UserName</td>
